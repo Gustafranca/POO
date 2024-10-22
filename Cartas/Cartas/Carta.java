@@ -1,3 +1,6 @@
+package Cartas;
+
+import Carta;
 
 public class Carta{
     private String naipe;
